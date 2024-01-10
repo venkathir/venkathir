@@ -1,7 +1,6 @@
 - 👋 Hey there! I'm a passionate front-end developer.
 - Currently, my toolkit includes HTML, CSS, JavaScript, jQuery.
 - 🌱 I'm on an exciting journey of mastering React and diving into backend technologies
-- 💞️ I’m looking to collaborate on ...
 - 💬 Ask me about HTML, CSS and Javascript
 - 📫 How to reach me venkathir@outlook.com
   
